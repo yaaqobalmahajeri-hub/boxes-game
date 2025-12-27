@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\BoxesGame\BoxesGame\bin\Debug\BoxesGame.exe.config
+C:\Users\Lenovo\source\repos\BoxesGame\BoxesGame\bin\Debug\BoxesGame.exe
+C:\Users\Lenovo\source\repos\BoxesGame\BoxesGame\bin\Debug\BoxesGame.pdb
+C:\Users\Lenovo\source\repos\BoxesGame\BoxesGame\obj\Debug\BoxesGame.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\BoxesGame\BoxesGame\obj\Debug\BoxesGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\BoxesGame\BoxesGame\obj\Debug\BoxesGame.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\BoxesGame\BoxesGame\obj\Debug\BoxesGame.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\BoxesGame\BoxesGame\obj\Debug\BoxesGame.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\BoxesGame\BoxesGame\obj\Debug\BoxesGame.exe
+C:\Users\Lenovo\source\repos\BoxesGame\BoxesGame\obj\Debug\BoxesGame.pdb
+C:\Users\Lenovo\source\repos\BoxesGame\BoxesGame\obj\Debug\BoxesGame.menueForm.resources
+C:\Users\Lenovo\source\repos\BoxesGame\BoxesGame\bin\Debug\en-US\BoxesGame.resources.dll
+C:\Users\Lenovo\source\repos\BoxesGame\BoxesGame\obj\Debug\BoxesGame.AboutDev.resources
+C:\Users\Lenovo\source\repos\BoxesGame\BoxesGame\obj\Debug\BoxesGame.GameForm.resources
+C:\Users\Lenovo\source\repos\BoxesGame\BoxesGame\obj\Debug\BoxesGame.MenueForm.en-US.resources
+C:\Users\Lenovo\source\repos\BoxesGame\BoxesGame\obj\Debug\en-US\BoxesGame.resources.dll
